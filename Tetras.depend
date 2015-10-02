@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1355119549 source:c:\users\user\documents\programs\tetras\globals.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"globals.h"
+	<fstream>
+	<string>
+
+1355119549 c:\users\user\documents\programs\tetras\globals.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"gamestates.h"
+	<fstream>
+	<string>
+
+1355119549 source:c:\users\user\documents\programs\tetras\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"globals.h"
+	"functions.h"
+	"constants.h"
+	"gamestates.h"
+	"game.h"
+	"timer.h"
+	<cstdlib>
+	<ctime>
+	<fstream>
+
+1366530524 c:\users\user\documents\programs\tetras\functions.h
+	"SDL/SDL.h"
+	"gamestates.h"
+	<vector>
+	<string>
+	<list>
+
+1366531143 source:c:\users\user\documents\programs\tetras\functions.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"functions.h"
+	"globals.h"
+	"constants.h"
+	"gamestates.h"
+	"game.h"
+	<vector>
+	<list>
+	<string>
+	<fstream>
+
+1354800356 c:\users\user\documents\programs\tetras\constants.h
+
+1366531217 source:c:\users\user\documents\programs\tetras\gamestates.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"gamestates.h"
+	<cstdlib>
+	<fstream>
+
+1366459193 c:\users\user\documents\programs\tetras\gamestates.h
+	<vector>
+
+1366531985 source:c:\users\user\documents\programs\tetras\game.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"game.h"
+	"constants.h"
+	"globals.h"
+	"functions.h"
+	"timer.h"
+	<vector>
+	<sstream>
+	<fstream>
+	<string>
+	<list>
+
+1366528031 c:\users\user\documents\programs\tetras\game.h
+	"SDL/SDL.h"
+	"gamestates.h"
+	"timer.h"
+	<vector>
+	<string>
+
+1354704452 source:c:\users\user\documents\programs\tetras\tetrad.cpp
+	"SDL/SDL.h"
+	"tetrad.h"
+	<vector>
+
+1354800025 c:\users\user\documents\programs\tetras\tetrad.h
+	<vector>
+	"gamestates.h"
+	"game.h"
+
+1354799638 c:\users\user\documents\programs\tetras\timer.h
+
+1354798835 source:c:\users\user\documents\programs\tetras\timer.cpp
+	"timer.h"
+	"SDL/SDL.h"
+
